@@ -1,3 +1,4 @@
 # BamaScraping
-This is a Script that grab CarPrice from https://www.bama.com
+This is a Script that grab CarPrice from [bama](https://www.bama.ir)
 * Usage
+* About me 
